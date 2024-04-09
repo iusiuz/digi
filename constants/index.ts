@@ -3,6 +3,7 @@ import {
 	FileCode,
 	GaugeCircle,
 	Home,
+	LibraryBig,
 	ListVideo,
 	MessageSquareMore,
 	MonitorPlay,
@@ -30,6 +31,7 @@ export const navLinks = [
 	{ route: 'courses', name: 'navLink2', icon: ListVideo },
 	{ route: 'blogs', name: 'navLink3', icon: Rss },
 	{ route: 'contacts', name: 'navLink4', icon: Contact },
+	{ route: 'libruary', name: 'navLink5', icon: LibraryBig },
 ]
 
 export const lngs = [
